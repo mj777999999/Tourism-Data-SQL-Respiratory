@@ -16,13 +16,13 @@ Q2The Shift: Has the peak season for any country shifted over the last few years
 
 BATCH 3. Correlation
 
-The Luxury Ratio: Is there a correlation between the number of arrivals and the average spending per visitor? (Do some countries attract fewer, but much wealthier, tourists?)
+Q1 The Luxury Ratio: Is there a correlation between the number of arrivals and the average spending per visitor? (Do some countries attract fewer, but much wealthier, tourists?)
 
-The Distance Factor: Do countries that rely on long-haul flights have a different tourism profile than countries with lots of neighboring countries (like those in Europe or SE Asia)?
+Q2 The Distance Factor: Do countries that rely on long-haul flights have a different tourism profile than countries with lots of neighboring countries (like those in Europe or SE Asia)?
 
 ========================
 BATCH 4. The Anomaly
 
-The One-Month Wonder: Is there a month in your data where arrivals for a specific country spiked 500% compared to the rest of the year? 
+Q1 The One-Month Wonder: Is there a month in your data where arrivals for a specific country spiked 500% compared to the rest of the year? 
 
-The Outlier: Is there a tiny, unknown island or country that is suddenly appearing on the global tourism map?
+Q2 The Outlier: Is there a tiny, unknown island or country that is suddenly appearing on the global tourism map?
