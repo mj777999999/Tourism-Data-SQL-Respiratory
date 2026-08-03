@@ -1,0 +1,28 @@
+BATCH 1.  Recovery and Growth (The Big Picture)
+
+Q1 The V-Shape Recovery: Which countries have completely exceeded their 2019 visitor numbers by 2026?
+
+Q2 The Rising Stars: Which country saw the highest percentage growth in tourism arrivals over the last 3 years? 
+
+=========================
+
+BATCH 2. Seasonality
+
+Q1 The Hidden Peaks: Does the data show that some countries have "second seasons" that most tourists ignore?
+
+Q2The Shift: Has the peak season for any country shifted over the last few years? (eg a country that used to be a summer destination is now seeing more winter visitors?)
+
+=========================
+
+BATCH 3. Correlation
+
+The Luxury Ratio: Is there a correlation between the number of arrivals and the average spending per visitor? (Do some countries attract fewer, but much wealthier, tourists?)
+
+The Distance Factor: Do countries that rely on long-haul flights have a different tourism profile than countries with lots of neighboring countries (like those in Europe or SE Asia)?
+
+========================
+BATCH 4. The Anomaly
+
+The One-Month Wonder: Is there a month in your data where arrivals for a specific country spiked 500% compared to the rest of the year? 
+
+The Outlier: Is there a tiny, unknown island or country that is suddenly appearing on the global tourism map?
