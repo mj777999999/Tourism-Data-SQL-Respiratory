@@ -4,13 +4,15 @@ Q1 The V-Shape Recovery: Which countries have completely exceeded their 2019 vis
 
 Q2 The Rising Stars: Which country saw the highest percentage growth in tourism arrivals over the last 3 years? 
 
+Q3 The Stagnant Zones: Are there any major destinations that have failed to recover to pre-2020 levels? Why?
+
 =========================
 
 BATCH 2. Seasonality
 
 Q1 The Hidden Peaks: Does the data show that some countries have "second seasons" that most tourists ignore?
 
-Q2The Shift: Has the peak season for any country shifted over the last few years? (eg a country that used to be a summer destination is now seeing more winter visitors?)
+Q2 The Shift: Has the peak season for any country shifted over the last few years? (eg a country that used to be a summer destination is now seeing more winter visitors?)
 
 =========================
 
