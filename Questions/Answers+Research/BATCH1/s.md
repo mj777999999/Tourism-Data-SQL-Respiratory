@@ -2,7 +2,7 @@
 # BATCH1 Tourism Investigation Q Answers
 
 ## Objective
-We are looking at visitor growth between **2019** and **2024**.
+Q1 The V-Shape Recovery: Which countries have completely exceeded their 2019 visitor numbers by 2026?
 
 * **Key Finding:**
 **Explosive Post-Pandemic Growth Leaders:** Emerging and high-demand travel markets experienced massive relative surges between 2019 and 2024. The **UAE (+127.56%)**, **Switzerland (+123.36%)**, and **Greece (+122.84%)** led global percentage growth, more than doubling their recorded visitor volumes over the five-year span.
