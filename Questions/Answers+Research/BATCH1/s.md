@@ -9,5 +9,5 @@ We are looking at visitor growth between **2019** and **2024**.
   
 * **The Scale vs. Percentage Paradox:** While the UAE and Switzerland topped the percentage rankings, macro-destinations like **Japan** captured vastly larger absolute volume ($365\text{k}$ to $632\text{k}$ visitors, yielding an absolute increase of $267\text{k}$). This illustrates that smaller 2019 baseline travels can artificially amplify percentage growth.
 
-* 
+  
 * **SQL File Used:** [View Query](../sql/Toursm%8YYr.sql)
