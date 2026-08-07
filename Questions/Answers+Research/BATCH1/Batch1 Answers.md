@@ -10,7 +10,7 @@
 
 * **Disclaimer **: This data does not reflect the overall real tourism trends ratio: (Contradiction)  (For instance: Greece is shown to grow **Greece (+122.84%)** despite actual numbers being ** around +14%**)
   
-* **SQL File Used:** [View Query](../sql/Toursm%8YYr.sql)
+* **SQL File Used:** [View Query](Questions/Answers+Research/BATCH1/2019 To Current yr Table.csv)
 
 * **Research Sources**
 
