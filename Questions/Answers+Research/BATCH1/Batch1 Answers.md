@@ -9,5 +9,8 @@ Q1 The V-Shape Recovery: Which countries have completely exceeded their 2019 vis
   
 * **The Scale vs Percentage:** While the UAE and Switzerland topped the percentage rankings, macro-destinations like **Japan** captured vastly larger absolute volume ($365\text{k}$ to $632\text{k}$ visitors, yielding an absolute increase of $267\text{k}$). This illustrates that smaller 2019 baseline travels can artificially amplify percentage growth.
 
+Suggestions
   
 * **SQL File Used:** [View Query](../sql/Toursm%8YYr.sql)
+
+* **Research Sources**
