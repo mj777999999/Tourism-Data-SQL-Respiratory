@@ -38,7 +38,20 @@ Research Sources
 
 ## Q3 The Stagnant Zones: Are there any major destinations that have failed to recover to pre-2020 levels? Why?
 
-Key Finding: 
+Key Finding:  Within this cohort of higher-baseline entries, Turkey ($+51.44\%$) and Indonesia ($+36.20\%\%$) showed moderate resilience and expansion between 2019 and 2024. Conversely, long-haul destination markets like Canada ($+17.56\%$), New Zealand ($+13.35\%$), and Australia ($-2.40\%$) stagnated or experienced negative net movement in this dataset.
+
+Australia:
+ Macro Reality: Official data from the Australian Bureau of Statistics (ABS) shows that Australian inbound international tourism experienced a strong, steady post-pandemic recovery (surpassing pre-2019 baseline levels overall by late 2025, with total annual spend climbing past pre-COVID figures).  The Visa Context: Australia implemented major structural changes during this period, including tightening requirements on temporary graduate and student visas, raising minimum income thresholds for skilled streams, and permanently closing the Subclass 189 (New Zealand stream) to new applications. 
+ 
+ Why the Dataset Shows $-2.4\%$ Stagnation: the database tracking Australia moving from $501$ to $489$ records reflects flat or restricted administrative application tracking rather than physical tourist behavior. Because Australia relies heavily on Electronic Travel Authorities (ETAs) and visitor visas processed through digital channels, shifts in agency routing, corporate sponsorship caps, or changes in how specific regional pipelines log data can cause a minor net-negative sample drop while actual national arrivals grow in the millions.
+
+
+New Zealand:
+ Macro Reality: Stats NZ tracking confirms that New Zealand's tourism recovery has indeed been relatively stagnant and uneven compared to rapid rebound hotspots. Total visitor arrivals hovered around 85% to 95% of pre-pandemic 2019 levels, heavily dragged down by slow recoveries in business travel, conferences, and long-haul holiday makers.  
+ 
+ The Visa Context: New Zealand adjusted immigration settings with targeted changes, such as tweaking rules for digital nomads and managing strict border re-openings, but its core leisure market faced economic headwinds. 
+ 
+ Why the Dataset Matches Stagnation: Unlike the massive distortions seen in tiny sample sizes like the Maldives, your New Zealand query showed a tight, low-volatility crawl from $412$ to $467$ records ($+13.35\%$). This actually mirrors the real-world macro-trend: New Zealand’s recovery was slow, methodical, and flat rather than explosive
 
 **Disclaimer **
 
