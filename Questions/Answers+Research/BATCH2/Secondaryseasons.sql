@@ -25,5 +25,5 @@ SELECT
     peak_season_records,
     (peak_season_records - total_season_records) AS difference_from_peak
 FROM ranked_seasons
-WHERE season_rank = 2 -- Filters strictly to the second season
+WHERE season_rank = 2 
 ORDER BY difference_from_peak ASC, destination_country ASC;
