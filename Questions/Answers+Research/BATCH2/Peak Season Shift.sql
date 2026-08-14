@@ -1,5 +1,4 @@
 WITH annual_season_totals AS (
-    -- Step 1: Aggregate total visitors by country, year, and season
     SELECT 
         destination_country,
         year,
@@ -12,7 +11,6 @@ WITH annual_season_totals AS (
         season
 ),
 ranked_seasons AS (
-    -- Step 2: Rank the seasons for each country and year based on visitor volume
     SELECT 
         destination_country,
         year,
@@ -21,7 +19,6 @@ ranked_seasons AS (
         ROW_NUMBER() OVER (PARTITION BY destination_country, year ORDER BY total_visitors DESC) AS season_rank
     FROM annual_season_totals
 )
--- Step 3: Filter to keep ONLY the absolute peak season (Rank 1)
 SELECT 
     destination_country,
     year,
