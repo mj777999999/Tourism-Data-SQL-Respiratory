@@ -28,23 +28,31 @@ Japan demonstrates a progressive transition toward shoulder-season dominance. Fo
 Heatwaves and intense humidity pccors during the Summer period, Especially in popular sections like Tokyo and Kyoto have heightened heat-stroke risks, discouraging mid-summer travel. Travelers also have been increasingly favor the mild, stable weather of spring and autumn to optimize outdoor activities and comfort.
 
 *Astatic and events
-While cherry blossoms present a short volatile peak, autumn foliage provides a prolonged, highly predictable multi-month window, reducing scheduling rigidity. Shoulder periods also coincide with regional harvest seasons, culinary transitions, and cultural festivals, delivering enriched authentic experiences diverging from peak holiday congestion.
+Popular seasons such as the Cherry blossoms present a short volatile peak, autumn foliage provides a prolonged highly predictable multi month window, reducing scheduling rigidity. Shoulder periods also coincide with regional harvest seasons, culinary transitions, and cultural festivals, delivering enriched authentic experiences diverging from peak holiday congestion.
 
 Greece
 
 *Observation
-Greece exhibits a definitive, high-confidence structural shift. After an initial recovery anchored in Spring, the market have permanently recalibrated to a Summer-dominated peak by 2023–2024. This reflects a rapid return to mass-market coastal and island tourism, cementing Summer as its absolute macroeconomic powerhouse.
+Greece exhibits a definitive, high-confidence structural shift. After an initial recovery anchored in Spring, the market have permanently recalibrated to a Summer-dominated peak by 2023–2024. 
+
+Likely reasons:
+Remarketing Priorities: Post the multi year pandemic restrictions, primary source markets (eg UK, Germany, France, and Northern Europe) had focus their priorities on guaranteed beach weather and traditional island holidays. 
+
+Institutional Tour Alignment: Major European package tour operators (TUI, Jet2, etc.) heavily consolidated seasonal flight capacity, hotel contracts, and charter operations directly into the June–August window to maximize load factors and profitability. Especially combined with port and ferry services running at higher capacity as compared to winter seasons.
 
 Thailand: 
+
 
 
 *Observation
 Thailand highlights a consolidated relocation of peak demand. The destination successfully established a durable, multi-year winter peak, moving permanently away from its pre-pandemic spring window. This aligns with macroeconomic shifts toward optimal dry-season weather conditions for international travelers.
 
+Likely Reasons:
+Extreme Heat Waves: Spring in Thailand has increasingly brought severe heatwaves, with temperatures exceeding 40°C (104°F)  on fequent cases, in April and May. Modern international travelers actively avoid extreme thermal discomfort, choosing the milder winter window (20–30°C). 
 
+Severe Air Quality: Northern and central Thailand face heightened seasonal haze (PM2.5 pollution) from February to April due to regional agricultural burning. Peak air pollution deters long-haul and wellness-oriented travelers, which are also fast growing travel types, thus pushing them toward the clear-sky winter months. 
 
-
-Other types of trends detacted:
+*Other types of trends detacted:
 
 Dural peak: eg Egypt, Maylsia, UK
 
