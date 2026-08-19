@@ -13,12 +13,3 @@ BATCH 2. Seasonality
 Q1 The Hidden Peaks: Does the data show that some countries have "second seasons" that most tourists ignore?
 
 Q2 The Shift: Has the peak season for any country shifted over the last few years? (eg a country that used to be a summer destination is now seeing more winter visitors?)
-
-=========================
-
-BATCH 3. Correlation
-
-Q1 The Luxury Ratio: Is there a correlation between the number of arrivals and the average spending per visitor? (Do some countries attract fewer, but much wealthier, tourists?)
-
-Q2 The Distance Factor: Do countries that rely on long-haul flights have a different tourism profile than countries with lots of neighboring countries (like those in Europe or SE Asia)?
-
