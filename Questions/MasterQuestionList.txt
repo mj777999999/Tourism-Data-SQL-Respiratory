@@ -22,9 +22,3 @@ Q1 The Luxury Ratio: Is there a correlation between the number of arrivals and t
 
 Q2 The Distance Factor: Do countries that rely on long-haul flights have a different tourism profile than countries with lots of neighboring countries (like those in Europe or SE Asia)?
 
-========================
-BATCH 4. The Anomaly
-
-Q1 The One-Month Wonder: Is there a month in your data where arrivals for a specific country spiked 500% compared to the rest of the year? 
-
-Q2 The Outlier: Is there a tiny, unknown island or country that is suddenly appearing on the global tourism map?
