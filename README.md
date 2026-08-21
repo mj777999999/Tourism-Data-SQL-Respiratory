@@ -8,7 +8,7 @@
    Time Range: 2019 – 2024.
    Scale: ~10,000 synthetic records across various global destinations.
 
-* Data Limitations / Disclaimer: Note on Data Users and reviewers should note that this dataset is synthetic and features a relatively small sample volume ($\approx 10,000$ rows spread across multiple years and countries).  Because of this low data volume, certain granular metrics—such as identifying secondary seasonal spikes—frequently resulted in razor-thin margins (eg., a peak of 12 records vs. a second season of 11 records, resulting in a difference of 1) All of these mimitations are discovered while running the queries.
+* Data Limitations / Disclaimer: Note on Data Users and reviewers should note that this dataset is synthetic and features a relatively small sample volume ($\approx 10,000$ rows spread across multiple years and countries).  Because of this low data volume, certain granular metrics such as identifying secondary seasonal spikes frequently resulted in razor-thin margins (eg., a peak of 12 records vs. a second season of 11 records, resulting in a difference of 1) All of these limitations are discovered while running the queries.
 
   * These findings should be interpreted as technical SQL query demonstrations rather than robust macroeconomic or behavioral tourism insights. Small sample constraints mean minor data fluctuations can easily look like major trends.
  
